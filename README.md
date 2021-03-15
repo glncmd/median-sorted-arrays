@@ -1,7 +1,7 @@
 # median-sorted-arrays
 A small python project where: given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 
-__The overall run time complexity should be O(log (m+n))__
+___The overall run time complexity should be O(log (m+n))___
 
 Sample output:
 ```python
